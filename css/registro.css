@@ -1,0 +1,11 @@
+.registro{
+    background:red;
+     width: 50%; 
+     position: absolute; 
+     top: 200px;
+}
+
+body{
+    background:chocolate; 
+}
+

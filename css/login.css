@@ -1,0 +1,15 @@
+.login{
+    background: blue;
+     width: 25%; 
+     position: absolute; 
+     top: 200px;
+}
+
+body{
+    background:#0EAEF9; 
+}
+
+.registro{
+    
+    width: 200px;    
+}
